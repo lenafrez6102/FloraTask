@@ -15,8 +15,6 @@ A standalone offline task timer and 3D botanical garden built with TypeScript, R
 - **Data Persistence & Portability** — 100% offline LocalStorage persistence with full JSON backup export and import
 - **Responsive & Accessible** — Clean zero-pill UI with desktop and mobile support, dual 3D Garden and 2D Botanical Bed views
 
----
-
 ## Tech Stack
 
 ### Frontend
